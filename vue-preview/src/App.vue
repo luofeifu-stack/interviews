@@ -1,9 +1,11 @@
 <script setup>
 import LoginPage from './components/LoginPage.vue'
+import UserList from './components/UserList.vue'
 </script>
 
 <template>
   <LoginPage />
+  <UserList />
 </template>
 
 <style scoped>
